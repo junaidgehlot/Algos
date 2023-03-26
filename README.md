@@ -1,5 +1,5 @@
 # Algos
-
+```
 const fibonacci = (n) => {
   const fib = [0, 1];
   for(let i = 2; i < n; i++){
@@ -213,6 +213,7 @@ console.log(users.reduce((acc, curr) => {
  } 
 return acc;
 }, []))
+````
 
 
 
